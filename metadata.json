@@ -1,0 +1,6 @@
+{
+  "name": "Crop Disease Detector",
+  "description": "AI-powered detection of diseases in crops such as Tomato, Potato, Corn, and Pepper with treatment and prevention measures.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
